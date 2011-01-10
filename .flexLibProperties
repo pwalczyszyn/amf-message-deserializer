@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.riaspace.amf.AmfMessageDeserializer"/>
+    <classEntry path="com.riaspace.amf.Amf0Types"/>
+    <classEntry path="com.riaspace.amf.AmfPacket"/>
+    <classEntry path="com.riaspace.amf.HttpParser"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
